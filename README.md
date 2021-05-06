@@ -2,8 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Flutter, Kotlin, Core Java
-- 📫 How to reach me
-  You can reach me with my mail vaibhavupadhyay28@gmail.com
+- 📫 You can reach me with vaibhavupadhyay28@gmail.com
 
 <!---
 vaibhavrock/vaibhavrock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

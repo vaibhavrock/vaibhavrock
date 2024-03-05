@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavrock
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Flutter, Kotlin, Core Java
+- 🌱 I’m currently learning Flutter and React Native
+- 💞️ I’m looking to collaborate on Kotlin, Core Java
 - 📫 You can reach me with vaibhavupadhyay28@gmail.com
 
 <!---
